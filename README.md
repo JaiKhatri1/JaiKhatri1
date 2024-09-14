@@ -2,7 +2,7 @@
 
 👀 I’m passionate about Coding in Python and currently involved in multiple AI/ML projects.
 
-🌱 Pursuing my BSCS at Namal Institute, I'm eager to delve deeper into the world of technology.
+🌱 Graduated with BSCS from Namal Institute, I'm eager to delve deeper into the world of technology.
 
 💞️ Seeking collaboration opportunities with a dynamic software house to expand my skills and contribute meaningfully.
 
